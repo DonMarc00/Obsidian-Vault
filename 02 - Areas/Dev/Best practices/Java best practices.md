@@ -1,0 +1,1 @@
+[Java Best Practices | The IntelliJ IDEA Blog](https://blog.jetbrains.com/idea/2024/02/java-best-practices/)

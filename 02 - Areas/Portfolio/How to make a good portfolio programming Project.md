@@ -1,0 +1,5 @@
+- Make sure its easy to run and easy to use
+- Make sure its unique and creative. This is easily achieved if it is something tailored to your daily life (personal and custom)
+- Make it apply to your daily life
+- It should seem like it was hard to build/complicated
+- Great GitHub —> Good: Comments, Readme, Commit messages and of course clean code

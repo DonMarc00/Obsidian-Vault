@@ -1,0 +1,245 @@
+{
+  "main": {
+    "id": "114e5973f72ef97a",
+    "type": "split",
+    "children": [
+      {
+        "id": "5ec062b6736d3823",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9941559e07375f60",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "08 - Kitchen Nightmares/Hefezopf.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4e48e8ef51cadd31",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 - Resources/MTB/MTB - Aufbau.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f86fa41a40aa0440",
+    "type": "split",
+    "children": [
+      {
+        "id": "32b5b5816d8f3148",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "724392128bc70f01",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
+            "id": "f64e761a73929ca8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "802552ee30f8c8f0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5878a60475f74338",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "99ed7720197c2eb0",
+    "type": "split",
+    "children": [
+      {
+        "id": "9f837427c83944c9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d9ca973afd2d8261",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "666d4f892fb8b076",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "03 - Resources/MTB/MTB - Aufbau.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b2a27ef5e870df22",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "03 - Resources/MTB/MTB - Aufbau.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7844c5ee568f19bc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "54065b73320afe99",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "384865d1be18624e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "03 - Resources/MTB/MTB - Aufbau.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "homepage:Open homepage": false,
+      "switcher:Open quick switcher": true,
+      "command-palette:Open command palette": true,
+      "graph:Open graph view": false,
+      "daily-notes:Open today's daily note": false,
+      "zk-prefixer:Create new unique note": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": true,
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "obsidian-importer:Open Importer": true,
+      "templater-obsidian:Templater": true,
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "remotely-save:Remotely Save": false
+    }
+  },
+  "active": "4e48e8ef51cadd31",
+  "lastOpenFiles": [
+    "README.md",
+    "2024-02-20.md",
+    "Untitled.md",
+    "Images/Pasted image 20240329213047.png",
+    "KI/AI-Map.md",
+    "KI/Warum KI.md",
+    "KI/AI Definitions.md",
+    "Bewerbung/Website.md",
+    "KI/Neuronale Netze.md",
+    "CRM/Customer Journey.md",
+    "CRM/Kundenlebenszyklus.md",
+    "CRM/Distributionspolitik.md",
+    "KI/Computer Terminology.md",
+    "KI/Bachelorarbeit/Methode.md",
+    "CRM/Vertriebsentscheidung.md",
+    "CRM/Schulung und Training.md",
+    "CRM/Segmentierungsverfahren.md",
+    "CRM/Adressqualitätsmanagement.md",
+    "KI/Bachelorarbeit/Donuts - Map.md",
+    "KI/Aufbau und Anwendung von NN.md",
+    "KI/Bachelorarbeit/ToDo's Sparrow.md",
+    "KI/Convolutional Neural Networks.md",
+    "KI/Bachelorarbeit/Aktueller Stand.md",
+    "KI/Bachelorarbeit/Glossar - Donuts.md",
+    "KI/Bachelorarbeit/Monitoring Tools.md",
+    "CRM/Aufbau und Einsatz CRM-Systeme.md",
+    "KI/Bachelorarbeit/Multi-Head Attention.md",
+    "KI/Bachelorarbeit",
+    "Business Intelligence/Text Mining",
+    "Business Intelligence/Time-Series Analysis",
+    "KI",
+    "CRM",
+    "Bewerbung",
+    "Business Intelligence",
+    "Images/Pasted image 20240329221715.png",
+    "03 - Resources/MTB",
+    "02 - Areas/Service Operations",
+    "02 - Areas/Kognition",
+    "Images/Pasted image 20240329221209.png",
+    "Images/Pasted image 20240329221100.png",
+    "03 - Resources/The library/The DevOps Handbook 2468486d78a54e8abde7c9841ba7fc18/Untitled.png",
+    "03 - Resources/The library/The DevOps Handbook 2468486d78a54e8abde7c9841ba7fc18/Untitled 1.png",
+    "03 - Resources/The library/Noise ceddfadaf82a4cfab965c02b72891244/0_dAl10_EEprM5aHfj.webp"
+  ]
+}
