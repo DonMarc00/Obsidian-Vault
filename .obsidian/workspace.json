@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 - Permanent/Blitz-Bibliothek/Inspiration.md",
+                "file": "01 - Projects/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04 - Permanent/Blitz-Bibliothek/Inspiration.md",
+                "file": "01 - Projects/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04 - Permanent/Blitz-Bibliothek/Inspiration.md",
+                "file": "01 - Projects/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 - Permanent/Blitz-Bibliothek/Inspiration.md"
+                "file": "01 - Projects/Untitled.md"
               }
             }
           }
@@ -200,13 +200,15 @@
   },
   "active": "4e48e8ef51cadd31",
   "lastOpenFiles": [
+    "00 - Maps of Content/Untitled.md",
+    "01 - Projects/Untitled.md",
+    "04 - Permanent/Blitz-Bibliothek/Inspiration.md",
     "04 - Permanent/Blitz-Bibliothek/Homo Deus/The Anthropocene.md",
     "04 - Permanent/Blitz-Bibliothek/Homo Deus/Homo Deus.md",
     "04 - Permanent/Blitz-Bibliothek/The DevOps Handbook/The DevOps Handbook.md",
     "04 - Permanent/Blitz-Bibliothek/Noise/Noise.md",
     "04 - Permanent/Blitz-Bibliothek/Thinking fast and slow.md",
     "04 - Permanent/Blitz-Bibliothek/Atomic Habits.md",
-    "04 - Permanent/Blitz-Bibliothek/Inspiration.md",
     "Inspiration Temp.md",
     "04 - Permanent/Blitz-Bibliothek/Read people like a book.md",
     "04 - Permanent/Blitz-Bibliothek/Über die Psychologie des Geldes.md",
@@ -234,7 +236,6 @@
     "04 - Permanent/B.md",
     "08 - Kitchen Nightmares/Hefezopf.md",
     "06 - Daily/20240408.md",
-    "02 - Areas/KI/Bachelorarbeit/Aktueller Stand-Marc’s MacBook Pro.md",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
     "Excalidraw",
