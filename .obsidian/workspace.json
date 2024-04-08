@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - Resources/MTB/MTB - Aufbau.md",
+                "file": "04 - Permanent/Blitz-Bibliothek/Inspiration.md",
                 "mode": "source",
                 "source": false
               }
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 - Resources/MTB/MTB - Aufbau.md",
+                "file": "04 - Permanent/Blitz-Bibliothek/Inspiration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 - Resources/MTB/MTB - Aufbau.md",
+                "file": "04 - Permanent/Blitz-Bibliothek/Inspiration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,11 +167,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 - Resources/MTB/MTB - Aufbau.md"
+                "file": "04 - Permanent/Blitz-Bibliothek/Inspiration.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -190,56 +191,59 @@
       "canvas:Create new canvas": false,
       "templates:Insert template": true,
       "obsidian-spaced-repetition:Review flashcards": false,
-      "obsidian-importer:Open Importer": true,
       "templater-obsidian:Templater": true,
       "obsidian-advanced-slides:Show Slide Preview": false,
-      "remotely-save:Remotely Save": false
+      "remotely-save:Remotely Save": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-importer:Open Importer": false
     }
   },
   "active": "4e48e8ef51cadd31",
   "lastOpenFiles": [
-    "README.md",
-    "2024-02-20.md",
-    "Untitled.md",
-    "Images/Pasted image 20240329213047.png",
-    "KI/AI-Map.md",
-    "KI/Warum KI.md",
-    "KI/AI Definitions.md",
-    "Bewerbung/Website.md",
-    "KI/Neuronale Netze.md",
-    "CRM/Customer Journey.md",
-    "CRM/Kundenlebenszyklus.md",
-    "CRM/Distributionspolitik.md",
-    "KI/Computer Terminology.md",
-    "KI/Bachelorarbeit/Methode.md",
-    "CRM/Vertriebsentscheidung.md",
-    "CRM/Schulung und Training.md",
-    "CRM/Segmentierungsverfahren.md",
-    "CRM/Adressqualitätsmanagement.md",
-    "KI/Bachelorarbeit/Donuts - Map.md",
-    "KI/Aufbau und Anwendung von NN.md",
-    "KI/Bachelorarbeit/ToDo's Sparrow.md",
-    "KI/Convolutional Neural Networks.md",
-    "KI/Bachelorarbeit/Aktueller Stand.md",
-    "KI/Bachelorarbeit/Glossar - Donuts.md",
-    "KI/Bachelorarbeit/Monitoring Tools.md",
-    "CRM/Aufbau und Einsatz CRM-Systeme.md",
-    "KI/Bachelorarbeit/Multi-Head Attention.md",
-    "KI/Bachelorarbeit",
-    "Business Intelligence/Text Mining",
-    "Business Intelligence/Time-Series Analysis",
-    "KI",
-    "CRM",
-    "Bewerbung",
-    "Business Intelligence",
-    "Images/Pasted image 20240329221715.png",
-    "03 - Resources/MTB",
-    "02 - Areas/Service Operations",
-    "02 - Areas/Kognition",
-    "Images/Pasted image 20240329221209.png",
-    "Images/Pasted image 20240329221100.png",
-    "03 - Resources/The library/The DevOps Handbook 2468486d78a54e8abde7c9841ba7fc18/Untitled.png",
-    "03 - Resources/The library/The DevOps Handbook 2468486d78a54e8abde7c9841ba7fc18/Untitled 1.png",
-    "03 - Resources/The library/Noise ceddfadaf82a4cfab965c02b72891244/0_dAl10_EEprM5aHfj.webp"
+    "04 - Permanent/Blitz-Bibliothek/Homo Deus/The Anthropocene.md",
+    "04 - Permanent/Blitz-Bibliothek/Homo Deus/Homo Deus.md",
+    "04 - Permanent/Blitz-Bibliothek/The DevOps Handbook/The DevOps Handbook.md",
+    "04 - Permanent/Blitz-Bibliothek/Noise/Noise.md",
+    "04 - Permanent/Blitz-Bibliothek/Thinking fast and slow.md",
+    "04 - Permanent/Blitz-Bibliothek/Atomic Habits.md",
+    "04 - Permanent/Blitz-Bibliothek/Inspiration.md",
+    "Inspiration Temp.md",
+    "04 - Permanent/Blitz-Bibliothek/Read people like a book.md",
+    "04 - Permanent/Blitz-Bibliothek/Über die Psychologie des Geldes.md",
+    "99 - Meta/attachments/Untitled 1.png",
+    "99 - Meta/attachments/Untitled.png",
+    "99 - Meta/attachments/0_dAl10_EEprM5aHfj.webp",
+    "99 - Meta/attachments/CCA10DE2-F766-4EF4-BAB6-A188095E6067.webp",
+    "04 - Permanent/Blitz-Bibliothek/Homo Deus/The Humanist Revolution.md",
+    "04 - Permanent/Blitz-Bibliothek/Homo Deus/The modern covenant.md",
+    "04 - Permanent/Blitz-Bibliothek/Homo Deus/The odd couple.md",
+    "04 - Permanent/Blitz-Bibliothek/Homo Deus/The Storyteller.md",
+    "04 - Permanent/Blitz-Bibliothek/Homo Deus/The Human Spark.md",
+    "04 - Permanent/Blitz-Bibliothek/Homo Deus/The new human agenda.md",
+    "04 - Permanent/Blitz-Bibliothek/Flow - The psychology of optimal experience.md",
+    "04 - Permanent/Blitz-Bibliothek/Meditations.md",
+    "04 - Permanent/Blitz-Bibliothek/The old man and the sea.md",
+    "04 - Permanent/Blitz-Bibliothek/Blitz-Bibliothek.md",
+    "04 - Permanent/Blitz-Bibliothek/The DevOps Handbook",
+    "04 - Permanent/Blitz-Bibliothek/Noise",
+    "04 - Permanent/Blitz-Bibliothek/Homo Deus",
+    "Blitz-Bibliothek",
+    "Notion",
+    "04 - Permanent/Blitz-Bibliothek",
+    "04 - Permanent/Untitled.md",
+    "04 - Permanent/B.md",
+    "08 - Kitchen Nightmares/Hefezopf.md",
+    "06 - Daily/20240408.md",
+    "02 - Areas/KI/Bachelorarbeit/Aktueller Stand-Marc’s MacBook Pro.md",
+    "Excalidraw/Scripts/Downloaded",
+    "Excalidraw/Scripts",
+    "Excalidraw",
+    "99 - Meta/attachments/AI-Metrics.pdf",
+    "99 - Meta/attachments/Pasted image 20240404090042.png",
+    "99 - Meta/attachments/Pasted image 20240404090349.png",
+    "99 - Meta/attachments/Pasted image 20240404090147.png",
+    "99 - Meta/attachments/Pasted image 20240404090132.png",
+    "99 - Meta/attachments/Pasted image 20240404090059.png",
+    "99 - Meta/Images/Pasted image 20240208134309.png"
   ]
 }

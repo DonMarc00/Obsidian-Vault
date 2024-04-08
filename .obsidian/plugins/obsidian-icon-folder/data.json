@@ -6,6 +6,8 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "BoBxsBolt",
+      "BoBxQuestionMark",
       "BoBxFork",
       "BoBxGlobeAlt"
     ],
@@ -85,5 +87,7 @@
     "iconsInNotesEnabled": true
   },
   "00 - Maps of Content": "BoBxGlobeAlt",
-  "08 - Kitchen Nightmares": "BoBxFork"
+  "08 - Kitchen Nightmares": "BoBxFork",
+  "02 - Areas/KI/Bachelorarbeit/Fragen Konstantin.md": "BoBxQuestionMark",
+  "04 - Permanent/Blitz-Bibliothek/Inspiration.md": "BoBxsBolt"
 }

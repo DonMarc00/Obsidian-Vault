@@ -1,6 +1,122 @@
 {
   "recentFiles": [
     {
+      "basename": "Inspiration",
+      "path": "04 - Permanent/Blitz-Bibliothek/Inspiration.md"
+    },
+    {
+      "basename": "The Anthropocene",
+      "path": "04 - Permanent/Blitz-Bibliothek/Homo Deus/The Anthropocene.md"
+    },
+    {
+      "basename": "Homo Deus",
+      "path": "04 - Permanent/Blitz-Bibliothek/Homo Deus/Homo Deus.md"
+    },
+    {
+      "basename": "The DevOps Handbook",
+      "path": "04 - Permanent/Blitz-Bibliothek/The DevOps Handbook/The DevOps Handbook.md"
+    },
+    {
+      "basename": "Noise",
+      "path": "04 - Permanent/Blitz-Bibliothek/Noise/Noise.md"
+    },
+    {
+      "basename": "Thinking fast and slow",
+      "path": "04 - Permanent/Blitz-Bibliothek/Thinking fast and slow.md"
+    },
+    {
+      "basename": "Atomic Habits",
+      "path": "04 - Permanent/Blitz-Bibliothek/Atomic Habits.md"
+    },
+    {
+      "basename": "Inspiration Temp",
+      "path": "Inspiration Temp.md"
+    },
+    {
+      "basename": "Read people like a book",
+      "path": "04 - Permanent/Blitz-Bibliothek/Read people like a book.md"
+    },
+    {
+      "basename": "Über die Psychologie des Geldes",
+      "path": "04 - Permanent/Blitz-Bibliothek/Über die Psychologie des Geldes.md"
+    },
+    {
+      "basename": "Hefezopf",
+      "path": "08 - Kitchen Nightmares/Hefezopf.md"
+    },
+    {
+      "basename": "20240408",
+      "path": "06 - Daily/20240408.md"
+    },
+    {
+      "basename": "Neuronale Netze",
+      "path": "02 - Areas/KI/Neuronale Netze.md"
+    },
+    {
+      "basename": "ToDo's Sparrow",
+      "path": "02 - Areas/KI/Bachelorarbeit/ToDo's Sparrow.md"
+    },
+    {
+      "basename": "Outlines",
+      "path": "02 - Areas/KI/Bachelorarbeit/Outlines.md"
+    },
+    {
+      "basename": "Multi-Head Attention",
+      "path": "02 - Areas/KI/Bachelorarbeit/Multi-Head Attention.md"
+    },
+    {
+      "basename": "Monitoring Tools",
+      "path": "02 - Areas/KI/Bachelorarbeit/Monitoring Tools.md"
+    },
+    {
+      "basename": "Glossar - Donuts",
+      "path": "02 - Areas/KI/Bachelorarbeit/Glossar - Donuts.md"
+    },
+    {
+      "basename": "Methode",
+      "path": "02 - Areas/KI/Bachelorarbeit/Methode.md"
+    },
+    {
+      "basename": "Aktueller Stand",
+      "path": "02 - Areas/KI/Bachelorarbeit/Aktueller Stand.md"
+    },
+    {
+      "basename": "Donuts - Map",
+      "path": "02 - Areas/KI/Bachelorarbeit/Donuts - Map.md"
+    },
+    {
+      "basename": "Metriken",
+      "path": "02 - Areas/KI/Metriken.md"
+    },
+    {
+      "basename": "Fragen Konstantin",
+      "path": "02 - Areas/KI/Bachelorarbeit/Fragen Konstantin.md"
+    },
+    {
+      "basename": "Pasted image 20240404090042",
+      "path": "99 - Meta/attachments/Pasted image 20240404090042.png"
+    },
+    {
+      "basename": "Fragestellung Gedanken",
+      "path": "02 - Areas/KI/Bachelorarbeit/Fragestellung Gedanken.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "20240404",
+      "path": "06 - Daily/20240404.md"
+    },
+    {
+      "basename": "20240403",
+      "path": "06 - Daily/20240403.md"
+    },
+    {
+      "basename": "20240402",
+      "path": "06 - Daily/20240402.md"
+    },
+    {
       "basename": "MTB - Aufbau",
       "path": "03 - Resources/MTB/MTB - Aufbau.md"
     },
@@ -83,54 +199,6 @@
     {
       "basename": "Untitled",
       "path": "03 - Resources/The library/The DevOps Handbook 2468486d78a54e8abde7c9841ba7fc18/Untitled.png"
-    },
-    {
-      "basename": "Untitled 1",
-      "path": "03 - Resources/The library/The DevOps Handbook 2468486d78a54e8abde7c9841ba7fc18/Untitled 1.png"
-    },
-    {
-      "basename": "The new human agenda dfd3ecc3455f4bb089087854a4478270",
-      "path": "03 - Resources/The library/Homo Deus 66a25760a93f4ae2b17a91bc3b1d05e1/The new human agenda dfd3ecc3455f4bb089087854a4478270.md"
-    },
-    {
-      "basename": "The Anthropocene c6c634e8a9a94328b62965827577aec7",
-      "path": "03 - Resources/The library/Homo Deus 66a25760a93f4ae2b17a91bc3b1d05e1/The Anthropocene c6c634e8a9a94328b62965827577aec7.md"
-    },
-    {
-      "basename": "Hefezopf",
-      "path": "08 - Kitchen Nightmares/Hefezopf.md"
-    },
-    {
-      "basename": "Heurekaner",
-      "path": "08 - Kitchen Nightmares/Heurekaner.md"
-    },
-    {
-      "basename": "Burger Patties",
-      "path": "08 - Kitchen Nightmares/Burger Patties.md"
-    },
-    {
-      "basename": "Zlevenka",
-      "path": "08 - Kitchen Nightmares/Zlevenka.md"
-    },
-    {
-      "basename": "Dalmatinska juha",
-      "path": "08 - Kitchen Nightmares/Dalmatinska juha.md"
-    },
-    {
-      "basename": "Mocak",
-      "path": "08 - Kitchen Nightmares/Mocak.md"
-    },
-    {
-      "basename": "Kotlovina",
-      "path": "08 - Kitchen Nightmares/Kotlovina.md"
-    },
-    {
-      "basename": "Zemleaca",
-      "path": "08 - Kitchen Nightmares/Zemleaca.md"
-    },
-    {
-      "basename": "Test",
-      "path": "07 - Archives/Test.md"
     }
   ],
   "omittedPaths": [],

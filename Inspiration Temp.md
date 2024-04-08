@@ -1,0 +1,1 @@
+Suffering arises from craving: the only way to be fully liberated from suffering is to be fully liberated from craving: and the only way to be liberated from craving is to train the mind to see reality as it is. - Buddha 
